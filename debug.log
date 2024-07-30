@@ -1,0 +1,1277 @@
+INFO 2022-01-07 22:36:45,406 Watching for file changes with StatReloader
+INFO 2022-01-07 22:36:51,220 "GET / HTTP/1.1" 302 0
+INFO 2022-01-07 22:36:51,268 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2022-01-07 22:36:51,300 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2022-01-07 22:36:51,301 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2022-01-07 22:36:51,307 "GET /static/dist/img/login.png HTTP/1.1" 200 144918
+INFO 2022-01-07 22:36:51,311 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+INFO 2022-01-07 22:36:51,313 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2022-01-07 22:36:51,320 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2022-01-07 22:36:51,325 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2022-01-07 22:36:51,341 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2022-01-07 22:36:51,342 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2022-01-07 22:36:51,348 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2022-01-07 22:36:51,353 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2022-01-07 22:36:51,355 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2022-01-07 22:36:51,359 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+WARNING 2022-01-07 22:36:51,412 Not Found: /favicon.ico
+WARNING 2022-01-07 22:36:51,412 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2022-01-07 22:36:51,909 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2022-01-07 22:36:52,274 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2022-01-07 22:36:56,990 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:36:57,139 "GET / HTTP/1.1" 200 9290
+INFO 2022-01-07 22:36:57,174 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2022-01-07 22:36:57,258 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2022-01-07 22:36:57,424 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2022-01-07 22:37:33,523 "GET /site-config HTTP/1.1" 200 10862
+INFO 2022-01-07 22:37:33,559 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,560 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,565 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,565 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,565 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,566 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,566 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,566 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,571 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,572 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,572 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,572 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:37:33,572 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,851 "POST /site-config HTTP/1.1" 200 10914
+INFO 2022-01-07 22:38:55,884 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,893 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,894 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,895 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,895 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,896 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,896 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,896 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,899 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,900 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,900 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,901 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,901 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,968 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2022-01-07 22:38:55,968 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:00,000 "GET /session/list/ HTTP/1.1" 200 11598
+INFO 2022-01-07 22:39:05,317 "GET /session/list/ HTTP/1.1" 200 11598
+INFO 2022-01-07 22:39:08,025 "GET /term/list/ HTTP/1.1" 200 12231
+INFO 2022-01-07 22:39:17,460 "GET /class/list/ HTTP/1.1" 200 11410
+INFO 2022-01-07 22:39:21,176 "GET /result/create/ HTTP/1.1" 200 10386
+INFO 2022-01-07 22:39:22,784 "GET /result/edit-results/ HTTP/1.1" 200 10104
+INFO 2022-01-07 22:39:24,143 "GET /result/view/all HTTP/1.1" 200 8834
+INFO 2022-01-07 22:39:25,534 "GET /result/create/ HTTP/1.1" 200 10386
+INFO 2022-01-07 22:39:27,159 "POST /result/create/ HTTP/1.1" 200 10530
+INFO 2022-01-07 22:39:31,185 "GET /student/list HTTP/1.1" 200 9946
+INFO 2022-01-07 22:39:34,601 "GET /staff/list/ HTTP/1.1" 200 9687
+INFO 2022-01-07 22:39:37,434 "GET /student/list HTTP/1.1" 200 9946
+INFO 2022-01-07 22:39:40,527 "GET /site-config HTTP/1.1" 200 10862
+INFO 2022-01-07 22:39:40,556 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,562 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,563 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,567 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,569 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,570 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,570 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,570 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,571 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,572 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,573 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,573 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:40,574 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:39:58,385 "POST /site-config HTTP/1.1" 200 10884
+INFO 2022-01-07 22:40:01,819 "POST /site-config HTTP/1.1" 200 10883
+INFO 2022-01-07 22:40:03,260 "POST /site-config HTTP/1.1" 200 10883
+INFO 2022-01-07 22:40:04,944 "GET / HTTP/1.1" 200 9290
+INFO 2022-01-07 22:40:06,827 "GET /site-config HTTP/1.1" 200 10862
+WARNING 2022-01-07 22:44:11,699 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /site-config
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\backends\db.py", line 87, in save
+    obj.save(force_insert=must_create, force_update=not must_create, using=using)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 763, in save_base
+    updated = self._save_table(
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 845, in _save_table
+    updated = self._do_update(base_qs, using, pk_val, values, update_fields,
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 899, in _do_update
+    return filtered._update(values) > 0
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\query.py", line 802, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\sql\compiler.py", line 1559, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\sql\compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    request.session.save()
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\backends\db.py", line 94, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\utils\deprecation.py", line 119, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\middleware.py", line 63, in process_response
+    raise SessionInterrupted(
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2022-01-07 22:44:11,702 "GET /site-config HTTP/1.1" 400 170832
+WARNING 2022-01-07 22:44:32,213 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\backends\db.py", line 87, in save
+    obj.save(force_insert=must_create, force_update=not must_create, using=using)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 763, in save_base
+    updated = self._save_table(
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 845, in _save_table
+    updated = self._do_update(base_qs, using, pk_val, values, update_fields,
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 899, in _do_update
+    return filtered._update(values) > 0
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\query.py", line 802, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\sql\compiler.py", line 1559, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\sql\compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    request.session.save()
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\backends\db.py", line 94, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\utils\deprecation.py", line 119, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\middleware.py", line 63, in process_response
+    raise SessionInterrupted(
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2022-01-07 22:44:32,214 "GET / HTTP/1.1" 400 170320
+INFO 2022-01-07 22:45:16,018 Watching for file changes with StatReloader
+WARNING 2022-01-07 22:45:25,273 The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\backends\db.py", line 87, in save
+    obj.save(force_insert=must_create, force_update=not must_create, using=using)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 726, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 763, in save_base
+    updated = self._save_table(
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 845, in _save_table
+    updated = self._do_update(base_qs, using, pk_val, values, update_fields,
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\base.py", line 899, in _do_update
+    return filtered._update(values) > 0
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\query.py", line 802, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\sql\compiler.py", line 1559, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\models\sql\compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\db\backends\sqlite3\base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    request.session.save()
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\backends\db.py", line 94, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\utils\deprecation.py", line 119, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\msi\AppData\Roaming\Python\Python38\site-packages\django\contrib\sessions\middleware.py", line 63, in process_response
+    raise SessionInterrupted(
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+WARNING 2022-01-07 22:45:25,276 "GET / HTTP/1.1" 400 170457
+INFO 2022-01-07 22:45:54,293 "GET / HTTP/1.1" 200 9298
+INFO 2022-01-07 22:45:54,320 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,321 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,327 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,327 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,327 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,328 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,328 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,328 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,331 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,333 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,333 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,334 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,334 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,376 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:54,376 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2022-01-07 22:45:57,552 "GET /site-config HTTP/1.1" 200 10873
+INFO 2022-01-07 22:46:02,685 "GET /session/list/ HTTP/1.1" 200 11606
+INFO 2022-01-07 22:46:14,111 "POST /session/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:46:14,236 "GET /session/list/ HTTP/1.1" 200 12094
+INFO 2022-01-07 22:46:18,694 "GET /student/list HTTP/1.1" 200 9954
+INFO 2022-01-07 22:46:27,103 "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:46:27,117 "GET / HTTP/1.1" 302 0
+INFO 2022-01-07 22:46:27,127 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2022-01-07 22:46:27,156 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:46:27,159 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,109 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2022-01-07 22:51:05,134 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,141 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,142 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,143 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,144 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,147 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,153 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,154 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,154 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,155 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,155 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,157 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,158 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,241 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2022-01-07 22:51:05,901 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2022-01-07 22:51:06,473 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2022-01-07 22:55:09,674 Watching for file changes with StatReloader
+INFO 2022-01-07 22:56:08,897 Watching for file changes with StatReloader
+INFO 2022-01-07 22:56:20,757 "GET / HTTP/1.1" 302 0
+INFO 2022-01-07 22:56:20,785 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2022-01-07 22:56:20,863 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2022-01-07 22:56:20,876 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2022-01-07 22:56:20,902 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2022-01-07 22:56:20,912 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2022-01-07 22:56:20,930 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2022-01-07 22:56:20,931 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2022-01-07 22:56:20,939 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2022-01-07 22:56:20,941 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2022-01-07 22:56:20,941 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2022-01-07 22:56:20,946 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+INFO 2022-01-07 22:56:20,957 "GET /static/dist/img/login.png HTTP/1.1" 200 445475
+INFO 2022-01-07 22:56:20,966 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2022-01-07 22:56:20,974 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2022-01-07 22:56:21,406 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2022-01-07 22:56:37,184 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:56:37,309 "GET / HTTP/1.1" 200 9298
+INFO 2022-01-07 22:56:37,340 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2022-01-07 22:56:37,368 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2022-01-07 22:56:37,421 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2022-01-07 22:56:47,884 "GET /site-config HTTP/1.1" 200 10873
+INFO 2022-01-07 22:56:53,969 "GET /session/list/ HTTP/1.1" 200 11949
+INFO 2022-01-07 22:57:06,893 "POST /session/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:57:07,036 "GET /session/list/ HTTP/1.1" 200 12437
+INFO 2022-01-07 22:57:14,603 "GET /term/list/ HTTP/1.1" 200 12239
+INFO 2022-01-07 22:57:19,260 "GET /subject/list/ HTTP/1.1" 200 11405
+INFO 2022-01-07 22:57:33,069 "POST /subject/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:57:33,219 "GET /subject/list/ HTTP/1.1" 200 11835
+INFO 2022-01-07 22:57:42,411 "POST /subject/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:57:42,544 "GET /subject/list/ HTTP/1.1" 200 12122
+INFO 2022-01-07 22:57:45,487 "GET /subject/4/delete/ HTTP/1.1" 200 9997
+INFO 2022-01-07 22:57:47,136 "POST /subject/4/delete/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:57:47,253 "GET /subject/list/ HTTP/1.1" 200 11873
+INFO 2022-01-07 22:57:54,361 "GET /class/list/ HTTP/1.1" 200 11418
+INFO 2022-01-07 22:58:10,004 "POST /class/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:58:10,120 "GET /class/list/ HTTP/1.1" 200 11844
+INFO 2022-01-07 22:58:21,478 "GET /student/list HTTP/1.1" 200 9954
+INFO 2022-01-07 22:58:25,570 "GET /student/create/ HTTP/1.1" 200 13660
+INFO 2022-01-07 22:59:46,572 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 22:59:46,732 "GET /student/1/ HTTP/1.1" 200 11314
+INFO 2022-01-07 22:59:46,757 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,758 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,758 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,759 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,759 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,760 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,767 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,767 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,768 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,768 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,769 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,769 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,776 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 22:59:46,889 "GET /media/students/passports/projectworlds.png HTTP/1.1" 200 13585
+INFO 2022-01-07 23:00:00,782 "GET /student/1/update/ HTTP/1.1" 200 13963
+INFO 2022-01-07 23:00:04,922 "GET /student/list HTTP/1.1" 200 9954
+INFO 2022-01-07 23:00:06,989 "GET /student/upload/ HTTP/1.1" 200 10009
+INFO 2022-01-07 23:00:14,256 "GET /student/download-csv/ HTTP/1.1" 200 94
+INFO 2022-01-07 23:02:33,819 "POST /student/upload/ HTTP/1.1" 302 0
+INFO 2022-01-07 23:02:34,036 "GET /student/list HTTP/1.1" 200 10099
+INFO 2022-01-07 23:02:39,461 "GET /student/list HTTP/1.1" 200 9954
+INFO 2022-01-07 23:02:39,751 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,752 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,759 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,759 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,775 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,778 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,782 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,783 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,784 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,789 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,793 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,795 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:39,795 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:02:49,228 "GET /student/create/ HTTP/1.1" 200 13695
+INFO 2022-01-07 23:03:24,013 "POST /student/create/ HTTP/1.1" 200 13887
+INFO 2022-01-07 23:03:30,756 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 23:03:31,004 "GET /student/3/ HTTP/1.1" 200 11297
+INFO 2022-01-07 23:03:31,095 "GET /static/dist/img/avatar.png HTTP/1.1" 200 8543
+INFO 2022-01-07 23:03:34,773 "GET /student/3/update/ HTTP/1.1" 200 13766
+INFO 2022-01-07 23:03:42,330 "POST /student/3/update/ HTTP/1.1" 302 0
+INFO 2022-01-07 23:03:42,764 "GET /student/3/ HTTP/1.1" 200 11298
+INFO 2022-01-07 23:03:46,159 "GET /student/list HTTP/1.1" 200 9954
+INFO 2022-01-07 23:05:04,576 "GET /student/list HTTP/1.1" 200 9954
+INFO 2022-01-07 23:05:08,969 "GET / HTTP/1.1" 200 9298
+INFO 2022-01-07 23:05:15,950 "GET /finance/list/ HTTP/1.1" 200 9933
+INFO 2022-01-07 23:05:19,684 "GET /finance/create/ HTTP/1.1" 200 13686
+INFO 2022-01-07 23:06:47,475 "POST /finance/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 23:06:47,633 "GET /finance/list HTTP/1.1" 301 0
+INFO 2022-01-07 23:06:47,799 "GET /finance/list/ HTTP/1.1" 200 10353
+INFO 2022-01-07 23:06:47,845 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,848 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,849 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,857 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,858 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,863 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,866 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,871 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,872 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,872 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,873 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,874 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:47,877 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2022-01-07 23:06:55,626 "GET /finance/create/ HTTP/1.1" 200 13686
+INFO 2022-01-07 23:06:59,977 "GET /finance/list/ HTTP/1.1" 200 10353
+INFO 2022-01-07 23:07:04,048 - Broken pipe from ('127.0.0.1', 55028)
+
+INFO 2022-01-07 23:07:04,220 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10851
+INFO 2022-01-07 23:07:18,913 "POST /finance/receipt/create?invoice=1 HTTP/1.1" 302 0
+INFO 2022-01-07 23:07:19,205 "GET /finance/list/ HTTP/1.1" 200 10355
+INFO 2022-01-07 23:07:26,524 "GET /staff/list/ HTTP/1.1" 200 9695
+INFO 2022-01-07 23:07:31,146 "GET /staff/create/ HTTP/1.1" 200 12608
+INFO 2022-01-07 23:07:40,463 "GET /result/view/all HTTP/1.1" 200 8842
+INFO 2022-01-07 23:07:48,213 "GET /result/create/ HTTP/1.1" 200 10923
+INFO 2022-01-07 23:07:59,394 "POST /result/create/ HTTP/1.1" 200 11146
+INFO 2022-01-07 23:08:10,904 "POST /result/create/ HTTP/1.1" 302 0
+INFO 2022-01-07 23:08:11,417 "GET /result/edit-results/ HTTP/1.1" 200 12057
+INFO 2022-01-07 23:08:44,225 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2022-01-07 23:08:44,681 "GET /result/edit-results/ HTTP/1.1" 200 12212
+INFO 2022-01-07 23:08:52,092 "GET /result/view/all HTTP/1.1" 200 10295
+INFO 2022-01-07 23:09:01,934 "GET /result/create/ HTTP/1.1" 200 10923
+INFO 2022-01-07 23:09:09,356 "GET /result/view/all HTTP/1.1" 200 10295
+INFO 2022-01-07 23:09:14,933 "GET /result/edit-results/ HTTP/1.1" 200 12069
+INFO 2022-01-07 23:09:25,474 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2022-01-07 23:09:26,075 "GET /result/edit-results/ HTTP/1.1" 200 12212
+INFO 2022-01-07 23:09:30,424 "GET /result/view/all HTTP/1.1" 200 10295
+INFO 2022-01-07 23:09:39,427 "GET / HTTP/1.1" 200 9298
+INFO 2022-01-07 23:09:46,083 "GET /finance/list/ HTTP/1.1" 200 10355
+INFO 2022-01-07 23:09:51,257 "GET /finance/1/detail/ HTTP/1.1" 200 11415
+INFO 2024-03-13 23:50:10,414 Watching for file changes with StatReloader
+INFO 2024-03-13 23:57:43,495 Watching for file changes with StatReloader
+INFO 2024-03-13 23:58:42,197 Watching for file changes with StatReloader
+INFO 2024-03-13 23:59:01,551 "GET / HTTP/1.1" 302 0
+INFO 2024-03-13 23:59:01,577 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-03-13 23:59:02,253 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-03-13 23:59:02,253 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+INFO 2024-03-13 23:59:02,254 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-03-13 23:59:02,255 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-03-13 23:59:02,261 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-03-13 23:59:02,261 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-03-13 23:59:02,263 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-03-13 23:59:02,269 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-03-13 23:59:02,270 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-03-13 23:59:02,270 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-03-13 23:59:02,270 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-03-13 23:59:02,276 "GET /static/dist/img/login.png HTTP/1.1" 200 445475
+INFO 2024-03-13 23:59:02,277 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2024-03-13 23:59:02,438 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-03-13 23:59:12,762 "POST /accounts/login/ HTTP/1.1" 200 4114
+INFO 2024-03-14 00:00:27,593 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-03-14 00:00:27,611 "GET / HTTP/1.1" 200 9298
+INFO 2024-03-14 00:00:27,627 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-03-14 00:00:27,639 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2024-03-14 00:00:27,682 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2024-03-14 00:00:34,951 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-14 00:00:38,266 "GET /staff/list/ HTTP/1.1" 200 9695
+INFO 2024-03-14 00:00:39,625 "GET /finance/list/ HTTP/1.1" 200 10355
+INFO 2024-03-14 00:00:43,231 "GET /result/create/ HTTP/1.1" 200 10923
+INFO 2024-03-14 00:00:45,958 "GET /result/view/all HTTP/1.1" 200 10295
+INFO 2024-03-14 00:00:49,632 "GET /result/view/all HTTP/1.1" 200 10295
+INFO 2024-03-14 00:00:58,559 "GET /site-config HTTP/1.1" 200 10873
+INFO 2024-03-14 00:01:01,515 "GET /staff/list/ HTTP/1.1" 200 9695
+INFO 2024-03-14 00:01:03,792 "GET /result/view/all HTTP/1.1" 200 10295
+INFO 2024-03-14 00:01:08,838 "GET / HTTP/1.1" 200 9298
+INFO 2024-03-14 00:01:46,929 "GET /result/view/all HTTP/1.1" 200 10295
+INFO 2024-03-14 00:01:55,695 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-14 00:02:02,378 "GET /result/edit-results/ HTTP/1.1" 200 12069
+INFO 2024-03-14 00:02:11,310 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-14 00:02:14,070 "GET /student/create/ HTTP/1.1" 200 13695
+INFO 2024-03-14 00:02:27,688 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-14 00:02:28,784 "GET /result/create/ HTTP/1.1" 200 10923
+INFO 2024-03-14 00:02:37,374 "GET /result/create/ HTTP/1.1" 200 10923
+INFO 2024-03-14 00:02:38,322 "GET /result/create/ HTTP/1.1" 200 10923
+INFO 2024-03-14 00:02:39,343 "POST /result/create/ HTTP/1.1" 200 11067
+INFO 2024-03-14 00:02:40,437 "POST /result/create/ HTTP/1.1" 200 11067
+INFO 2024-03-14 00:02:46,684 "POST /result/create/ HTTP/1.1" 200 11154
+INFO 2024-03-14 00:02:53,546 "POST /result/create/ HTTP/1.1" 302 0
+INFO 2024-03-14 00:02:53,590 "GET /result/edit-results/ HTTP/1.1" 200 14002
+INFO 2024-03-14 00:03:04,538 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2024-03-14 00:03:04,582 "GET /result/edit-results/ HTTP/1.1" 200 14145
+INFO 2024-03-14 00:03:06,836 "GET /result/create/ HTTP/1.1" 200 10923
+INFO 2024-03-14 00:03:11,975 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-14 00:03:13,614 "GET /staff/list/ HTTP/1.1" 200 9695
+INFO 2024-03-14 00:03:16,795 "GET /staff/create/ HTTP/1.1" 200 12608
+INFO 2024-03-14 00:03:20,007 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-14 19:37:47,735 Watching for file changes with StatReloader
+INFO 2024-03-14 19:37:51,996 "GET / HTTP/1.1" 302 0
+INFO 2024-03-14 19:37:52,065 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-03-14 19:37:53,005 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-03-14 19:37:53,005 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-03-14 19:37:53,005 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+INFO 2024-03-14 19:37:53,015 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-03-14 19:37:53,025 "GET /static/dist/img/login.png HTTP/1.1" 200 445475
+INFO 2024-03-14 19:37:53,030 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2024-03-14 19:37:53,060 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-03-14 19:37:53,070 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-03-14 19:37:53,077 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-03-14 19:37:53,085 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-03-14 19:37:53,093 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-03-14 19:37:53,095 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-03-14 19:37:53,115 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-03-14 19:37:53,556 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2024-03-14 19:37:53,755 Not Found: /favicon.ico
+WARNING 2024-03-14 19:37:53,755 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-03-14 19:38:02,305 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-03-14 19:38:02,354 "GET / HTTP/1.1" 200 9298
+INFO 2024-03-14 19:38:02,369 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-03-14 19:38:02,447 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2024-03-14 19:38:02,695 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2024-03-14 19:38:07,216 "GET /subject/list/ HTTP/1.1" 200 11690
+INFO 2024-03-14 19:38:11,795 "GET /class/list/ HTTP/1.1" 200 11979
+INFO 2024-03-14 19:38:17,265 "GET /class/3/delete/ HTTP/1.1" 200 9997
+INFO 2024-03-14 19:38:18,895 "POST /class/3/delete/ HTTP/1.1" 302 0
+INFO 2024-03-14 19:38:18,915 "GET /class/list/ HTTP/1.1" 200 11696
+INFO 2024-03-14 19:38:20,873 "GET /class/2/delete/ HTTP/1.1" 200 9989
+INFO 2024-03-14 19:38:22,177 "POST /class/2/delete/ HTTP/1.1" 302 0
+INFO 2024-03-14 19:38:22,195 "GET /class/list/ HTTP/1.1" 200 11417
+INFO 2024-03-14 19:38:24,117 "GET /class/1/delete/ HTTP/1.1" 200 9989
+INFO 2024-03-14 19:38:25,223 "POST /class/1/delete/ HTTP/1.1" 302 0
+INFO 2024-03-14 19:38:25,239 "GET /class/list/ HTTP/1.1" 200 11138
+INFO 2024-03-14 19:38:27,439 "GET /staff/list/ HTTP/1.1" 200 9695
+INFO 2024-03-14 19:39:44,915 "GET /finance/list/ HTTP/1.1" 200 9933
+INFO 2024-03-14 19:39:46,816 "GET /finance/list/ HTTP/1.1" 200 9933
+INFO 2024-03-14 19:39:48,355 "GET /finance/list/ HTTP/1.1" 200 9933
+INFO 2024-03-14 19:39:50,445 "GET /finance/create/ HTTP/1.1" 200 13574
+INFO 2024-03-14 19:39:56,547 "GET /finance/list/ HTTP/1.1" 200 9933
+INFO 2024-03-14 19:39:57,649 "GET /finance/bulk-invoice/ HTTP/1.1" 200 9299
+INFO 2024-03-14 19:40:03,025 "GET /finance/list/ HTTP/1.1" 200 9933
+INFO 2024-03-14 19:40:08,215 "GET /staff/list/ HTTP/1.1" 200 9695
+INFO 2024-03-14 19:40:13,133 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-14 19:40:18,035 "GET /result/create/ HTTP/1.1" 200 10913
+INFO 2024-03-14 19:40:19,555 "GET /result/edit-results/ HTTP/1.1" 200 12045
+INFO 2024-03-14 19:40:20,185 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-14 19:40:21,225 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-14 19:40:32,725 "GET /result/edit-results/ HTTP/1.1" 200 12045
+INFO 2024-03-14 19:40:37,843 "GET /result/edit-results/ HTTP/1.1" 200 12045
+INFO 2024-03-14 19:40:38,959 "GET /result/view/all HTTP/1.1" 200 10269
+INFO 2024-03-14 19:40:40,776 "GET /result/view/all HTTP/1.1" 200 10269
+INFO 2024-03-14 19:40:47,105 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-14 19:40:51,576 "GET /student/upload/ HTTP/1.1" 200 10009
+INFO 2024-03-14 19:41:06,214 "GET /finance/list/ HTTP/1.1" 200 9933
+INFO 2024-03-14 19:55:49,576 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-14 19:55:51,288 "GET /student/create/ HTTP/1.1" 200 13583
+INFO 2024-03-15 19:31:33,103 Watching for file changes with StatReloader
+INFO 2024-03-15 19:31:36,083 "GET / HTTP/1.1" 302 0
+INFO 2024-03-15 19:31:36,150 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-03-15 19:31:36,202 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-15 19:31:36,202 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-03-15 19:31:36,202 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-03-15 19:31:36,217 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-03-15 19:31:36,217 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-03-15 19:31:36,217 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-03-15 19:31:36,217 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2024-03-15 19:31:36,234 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-03-15 19:31:36,234 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-03-15 19:31:36,234 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-03-15 19:31:36,234 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-03-15 19:31:36,234 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2024-03-15 19:31:36,234 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-03-15 19:31:36,365 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-03-15 19:31:40,080 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-03-15 19:31:40,221 "GET / HTTP/1.1" 200 9298
+INFO 2024-03-15 19:31:40,236 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-03-15 19:31:40,236 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-03-15 19:31:40,392 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-15 19:31:49,605 "GET / HTTP/1.1" 200 9298
+INFO 2024-03-15 19:31:59,884 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-15 19:32:02,858 "GET /student/create/ HTTP/1.1" 200 13583
+INFO 2024-03-15 19:32:15,713 "GET /class/list/ HTTP/1.1" 200 11138
+INFO 2024-03-15 19:32:23,307 "POST /class/create/ HTTP/1.1" 302 0
+INFO 2024-03-15 19:32:23,324 "GET /class/list/ HTTP/1.1" 200 11559
+INFO 2024-03-15 19:32:29,736 "POST /class/create/ HTTP/1.1" 302 0
+INFO 2024-03-15 19:32:29,751 "GET /class/list/ HTTP/1.1" 200 11837
+INFO 2024-03-15 19:32:35,813 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-15 19:32:37,701 "GET /student/create/ HTTP/1.1" 200 13653
+INFO 2024-03-15 19:33:47,377 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2024-03-15 19:33:47,411 "GET /student/4/ HTTP/1.1" 200 11372
+INFO 2024-03-15 19:33:47,694 "GET /media/students/passports/Document_from_Sumit_Tomar.jpg HTTP/1.1" 200 99732
+INFO 2024-03-15 19:34:00,700 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-15 19:34:02,155 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-15 19:34:02,871 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-15 19:34:03,299 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-15 19:34:03,720 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-15 19:34:04,086 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-15 19:34:21,155 "GET /site-config HTTP/1.1" 200 10873
+INFO 2024-03-15 19:34:23,054 "GET /result/view/all HTTP/1.1" 200 10269
+INFO 2024-03-15 19:34:24,626 "GET /result/create/ HTTP/1.1" 200 11091
+INFO 2024-03-15 19:34:32,527 "GET /staff/list/ HTTP/1.1" 200 9695
+INFO 2024-03-15 19:34:36,759 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-15 19:34:49,000 "GET / HTTP/1.1" 200 9298
+INFO 2024-03-15 19:34:53,107 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-15 19:34:58,453 "GET /student/upload/ HTTP/1.1" 200 10009
+INFO 2024-03-15 19:35:01,071 "GET /student/list HTTP/1.1" 200 9954
+INFO 2024-03-15 19:39:56,284 "GET / HTTP/1.1" 200 9298
+INFO 2024-03-15 19:39:59,085 "GET /finance/list/ HTTP/1.1" 200 9933
+INFO 2024-03-15 19:40:01,269 "GET /finance/create/ HTTP/1.1" 200 13698
+INFO 2024-03-15 19:40:10,716 "GET /current-session/ HTTP/1.1" 200 10606
+INFO 2024-03-15 19:40:22,808 "GET /session/create/?next=current-session/ HTTP/1.1" 200 10182
+INFO 2024-03-15 19:40:32,717 "POST /session/create/?next=current-session/ HTTP/1.1" 302 0
+INFO 2024-03-15 19:40:32,750 "GET /session/list/ HTTP/1.1" 200 12776
+INFO 2024-03-15 19:40:37,327 "GET /current-session/ HTTP/1.1" 200 10642
+INFO 2024-03-15 19:40:40,842 "GET /finance/list/ HTTP/1.1" 200 9931
+INFO 2024-03-15 19:40:42,757 "GET /finance/create/ HTTP/1.1" 200 13734
+INFO 2024-03-15 19:41:03,954 "POST /finance/create/ HTTP/1.1" 302 0
+INFO 2024-03-15 19:41:04,119 "GET /finance/list HTTP/1.1" 301 0
+INFO 2024-03-15 19:41:04,144 "GET /finance/list/ HTTP/1.1" 200 10357
+INFO 2024-03-15 19:41:12,688 "GET /finance/2/detail/ HTTP/1.1" 200 10961
+INFO 2024-03-15 19:41:22,253 "GET /finance/list/ HTTP/1.1" 200 10357
+INFO 2024-03-15 19:41:23,186 "GET /finance/list/ HTTP/1.1" 200 10357
+INFO 2024-03-15 19:41:23,909 "GET /finance/list/ HTTP/1.1" 200 10357
+INFO 2024-03-15 19:41:25,350 "GET /finance/2/detail/ HTTP/1.1" 200 10961
+INFO 2024-03-15 19:41:28,180 "GET /finance/2/update/ HTTP/1.1" 200 14587
+INFO 2024-03-15 19:41:45,073 "POST /finance/2/update/ HTTP/1.1" 302 0
+INFO 2024-03-15 19:41:45,099 "GET /finance/2/detail/ HTTP/1.1" 200 11072
+INFO 2024-03-15 19:42:01,916 "GET /finance/list/ HTTP/1.1" 200 10357
+INFO 2024-03-15 19:42:04,905 "GET /finance/2/detail/ HTTP/1.1" 200 11072
+INFO 2024-03-15 19:42:12,457 "GET /finance/2/update/ HTTP/1.1" 200 15082
+INFO 2024-03-15 19:42:28,192 "POST /finance/2/update/ HTTP/1.1" 302 0
+INFO 2024-03-15 19:42:28,217 "GET /finance/2/detail/ HTTP/1.1" 200 11072
+INFO 2024-03-15 19:42:33,762 "GET /finance/2/update/ HTTP/1.1" 200 15082
+INFO 2024-03-15 19:42:50,828 "GET /student/list HTTP/1.1" 200 9952
+INFO 2024-03-15 19:42:53,152 "GET /staff/list/ HTTP/1.1" 200 9693
+INFO 2024-03-15 19:43:03,897 "GET /result/view/all HTTP/1.1" 200 8840
+INFO 2024-03-15 19:43:06,712 "GET /result/view/all HTTP/1.1" 200 8840
+INFO 2024-03-15 19:43:07,738 "GET /current-session/ HTTP/1.1" 200 10642
+INFO 2024-03-15 19:43:10,827 "GET /result/view/all HTTP/1.1" 200 8840
+INFO 2024-03-15 19:43:12,941 "GET /result/edit-results/ HTTP/1.1" 200 10110
+INFO 2024-03-15 19:43:14,806 "GET /result/edit-results/ HTTP/1.1" 200 10110
+INFO 2024-03-15 19:43:15,405 "GET /result/view/all HTTP/1.1" 200 8840
+INFO 2024-03-15 19:43:16,674 "GET /current-session/ HTTP/1.1" 200 10642
+ERROR 2024-03-15 19:43:20,684 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hp\Desktop\Minor II\Django-School-Management-System\apps\corecode\views.py", line 257, in post
+    form = self.form_Class(request.POST)
+AttributeError: 'CurrentSessionAndTermView' object has no attribute 'form_Class'
+ERROR 2024-03-15 19:43:20,684 "POST /current-session/ HTTP/1.1" 500 83020
+ERROR 2024-03-15 19:43:27,369 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hp\Desktop\Minor II\Django-School-Management-System\apps\corecode\views.py", line 257, in post
+    form = self.form_Class(request.POST)
+AttributeError: 'CurrentSessionAndTermView' object has no attribute 'form_Class'
+ERROR 2024-03-15 19:43:27,369 "POST /current-session/ HTTP/1.1" 500 83020
+INFO 2024-03-15 19:43:40,728 "GET /result/create/ HTTP/1.1" 200 11089
+INFO 2024-03-15 19:43:45,330 "GET /result/view/all HTTP/1.1" 200 8840
+INFO 2024-03-15 19:43:47,345 "GET /result/view/all HTTP/1.1" 200 8840
+INFO 2024-03-15 19:43:47,717 "GET /result/view/all HTTP/1.1" 200 8840
+INFO 2024-03-15 19:43:48,315 "GET /result/view/all HTTP/1.1" 200 8840
+INFO 2024-03-15 19:43:49,233 "GET /current-session/ HTTP/1.1" 200 10642
+ERROR 2024-03-15 19:43:59,581 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hp\Desktop\Minor II\Django-School-Management-System\apps\corecode\views.py", line 257, in post
+    form = self.form_Class(request.POST)
+AttributeError: 'CurrentSessionAndTermView' object has no attribute 'form_Class'
+ERROR 2024-03-15 19:43:59,581 "POST /current-session/ HTTP/1.1" 500 83020
+INFO 2024-03-15 19:44:09,678 "GET / HTTP/1.1" 200 9296
+INFO 2024-03-15 19:44:12,106 "GET /result/view/all HTTP/1.1" 200 8840
+INFO 2024-03-15 19:44:13,126 "GET /result/edit-results/ HTTP/1.1" 200 10110
+INFO 2024-03-15 19:44:14,925 "GET /current-session/ HTTP/1.1" 200 10642
+ERROR 2024-03-15 19:44:18,396 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hp\Desktop\Minor II\Django-School-Management-System\apps\corecode\views.py", line 257, in post
+    form = self.form_Class(request.POST)
+AttributeError: 'CurrentSessionAndTermView' object has no attribute 'form_Class'
+ERROR 2024-03-15 19:44:18,396 "POST /current-session/ HTTP/1.1" 500 83020
+ERROR 2024-03-15 19:44:30,101 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\hp\Desktop\Minor II\Django-School-Management-System\apps\corecode\views.py", line 257, in post
+    form = self.form_Class(request.POST)
+AttributeError: 'CurrentSessionAndTermView' object has no attribute 'form_Class'
+ERROR 2024-03-15 19:44:30,101 "POST /current-session/ HTTP/1.1" 500 83020
+INFO 2024-03-15 19:44:35,196 "GET /current-session/ HTTP/1.1" 200 10642
+INFO 2024-03-15 19:44:37,185 "GET /result/edit-results/ HTTP/1.1" 200 10110
+INFO 2024-03-15 19:44:38,196 "GET /result/create/ HTTP/1.1" 200 11089
+INFO 2024-03-15 19:44:40,892 "POST /result/create/ HTTP/1.1" 200 11190
+INFO 2024-03-15 19:44:44,905 "POST /result/create/ HTTP/1.1" 302 0
+INFO 2024-03-15 19:44:44,938 "GET /result/edit-results/ HTTP/1.1" 200 12058
+INFO 2024-03-15 19:45:26,286 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2024-03-15 19:45:26,316 "GET /result/edit-results/ HTTP/1.1" 200 12213
+INFO 2024-03-15 19:45:39,796 "GET /result/view/all HTTP/1.1" 200 10299
+INFO 2024-03-15 19:45:48,004 "GET /result/edit-results/ HTTP/1.1" 200 12070
+INFO 2024-03-15 19:45:53,358 "GET /result/edit-results/ HTTP/1.1" 200 12070
+INFO 2024-03-15 19:45:54,122 "GET /result/edit-results/ HTTP/1.1" 200 12070
+INFO 2024-03-15 19:45:54,956 "GET /result/edit-results/ HTTP/1.1" 200 12070
+INFO 2024-03-15 19:45:55,297 "GET /result/edit-results/ HTTP/1.1" 200 12070
+INFO 2024-03-15 19:45:55,746 "GET /result/edit-results/ HTTP/1.1" 200 12070
+INFO 2024-03-15 19:45:56,403 "GET /result/view/all HTTP/1.1" 200 10299
+INFO 2024-03-15 19:46:05,359 "GET /result/create/ HTTP/1.1" 200 11089
+INFO 2024-03-15 19:46:07,728 "GET /result/edit-results/ HTTP/1.1" 200 12070
+INFO 2024-03-15 19:46:11,571 "GET /session/list/ HTTP/1.1" 200 12631
+INFO 2024-03-15 19:46:16,220 "GET /session/3/delete/ HTTP/1.1" 200 9995
+INFO 2024-03-15 19:46:17,819 "POST /session/3/delete/ HTTP/1.1" 302 0
+INFO 2024-03-15 19:46:17,843 "GET /session/list/ HTTP/1.1" 200 12288
+INFO 2024-03-15 19:46:19,908 "GET /session/2/delete/ HTTP/1.1" 200 9995
+INFO 2024-03-15 19:46:20,815 "POST /session/2/delete/ HTTP/1.1" 302 0
+INFO 2024-03-15 19:46:20,831 "GET /session/list/ HTTP/1.1" 200 11945
+INFO 2024-03-15 19:46:22,611 "GET /session/1/delete/ HTTP/1.1" 200 9995
+INFO 2024-03-15 19:46:23,688 "POST /session/1/delete/ HTTP/1.1" 302 0
+INFO 2024-03-15 19:46:23,709 "GET /session/list/ HTTP/1.1" 200 11602
+INFO 2024-03-15 19:46:27,109 "GET /term/list/ HTTP/1.1" 200 12237
+INFO 2024-03-15 19:46:29,482 "GET /site-config HTTP/1.1" 200 10871
+INFO 2024-03-15 19:46:37,900 "GET /subject/list/ HTTP/1.1" 200 11688
+INFO 2024-03-15 19:46:49,614 "POST /subject/create/ HTTP/1.1" 302 0
+INFO 2024-03-15 19:46:49,639 "GET /subject/list/ HTTP/1.1" 200 12120
+INFO 2024-03-15 19:46:53,075 "GET /student/list HTTP/1.1" 200 9952
+INFO 2024-03-15 19:46:54,533 "GET /staff/list/ HTTP/1.1" 200 9693
+INFO 2024-03-15 19:46:56,033 "GET /staff/create/ HTTP/1.1" 200 12606
+INFO 2024-03-15 19:47:05,914 "POST /staff/create/ HTTP/1.1" 302 0
+INFO 2024-03-15 19:47:05,940 "GET /staff/1/ HTTP/1.1" 200 10820
+INFO 2024-03-15 19:47:10,094 "GET /staff/list/ HTTP/1.1" 200 9894
+INFO 2024-03-15 19:47:13,830 "GET /student/list HTTP/1.1" 200 9952
+INFO 2024-03-15 19:48:38,375 "GET /result/view/all HTTP/1.1" 200 10299
+INFO 2024-03-15 19:48:47,564 "GET /result/edit-results/ HTTP/1.1" 200 12070
+INFO 2024-03-15 19:53:38,832 "GET /site-config HTTP/1.1" 200 10871
+INFO 2024-03-15 19:54:06,196 "POST /site-config HTTP/1.1" 200 10895
+INFO 2024-03-15 19:54:09,077 "POST /site-config HTTP/1.1" 200 10895
+INFO 2024-03-15 19:54:10,027 "POST /site-config HTTP/1.1" 200 10895
+INFO 2024-03-15 19:54:12,535 "GET / HTTP/1.1" 200 9296
+INFO 2024-03-15 19:54:13,585 "GET / HTTP/1.1" 200 9296
+INFO 2024-03-15 19:54:15,088 "GET / HTTP/1.1" 200 9296
+INFO 2024-03-15 19:54:15,525 "GET / HTTP/1.1" 200 9296
+INFO 2024-03-15 19:54:15,712 "GET / HTTP/1.1" 200 9296
+INFO 2024-03-15 19:54:21,843 "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2024-03-15 19:54:21,851 "GET / HTTP/1.1" 302 0
+INFO 2024-03-15 19:54:21,854 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-03-15 20:17:05,511 Watching for file changes with StatReloader
+INFO 2024-03-15 20:17:09,049 "GET / HTTP/1.1" 302 0
+INFO 2024-03-15 20:17:09,074 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-03-15 21:29:58,842 Watching for file changes with StatReloader
+INFO 2024-03-15 21:30:02,290 "GET / HTTP/1.1" 302 0
+INFO 2024-03-15 21:30:02,318 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-03-15 21:30:05,844 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-03-15 21:30:05,907 "GET / HTTP/1.1" 200 9296
+INFO 2024-03-15 21:30:07,141 "GET /student/list HTTP/1.1" 200 11077
+INFO 2024-03-15 21:30:14,132 "GET /student/3/ HTTP/1.1" 200 11148
+INFO 2024-03-15 21:30:14,322 "GET /static/dist/img/avatar.png HTTP/1.1" 200 8543
+INFO 2024-03-15 21:30:16,514 "GET /student/list HTTP/1.1" 200 11077
+INFO 2024-03-15 21:30:19,494 "GET /result/create/ HTTP/1.1" 200 11089
+INFO 2024-03-15 21:30:24,854 "GET /result/edit-results/ HTTP/1.1" 200 12070
+INFO 2024-03-15 21:30:25,820 "GET /student/list HTTP/1.1" 200 11077
+INFO 2024-03-15 21:30:37,758 "GET /student/4/ HTTP/1.1" 200 11713
+INFO 2024-03-15 21:30:37,798 "GET /media/students/passports/Document_from_Sumit_Tomar.jpg HTTP/1.1" 200 99732
+INFO 2024-03-15 21:30:42,021 "GET /student/list HTTP/1.1" 200 11077
+INFO 2024-03-15 21:30:46,159 "GET /student/3/ HTTP/1.1" 200 11148
+INFO 2024-03-15 21:30:48,799 "GET /student/3/update/ HTTP/1.1" 200 13726
+INFO 2024-03-15 21:31:01,411 "GET /student/delete/3/ HTTP/1.1" 200 9600
+INFO 2024-03-15 21:31:04,002 "POST /student/delete/3/ HTTP/1.1" 302 0
+INFO 2024-03-15 21:31:04,017 "GET /student/list HTTP/1.1" 200 10796
+INFO 2024-03-15 21:31:05,890 "GET /student/2/ HTTP/1.1" 200 11116
+INFO 2024-03-15 21:31:07,446 "GET /student/delete/2/ HTTP/1.1" 200 9599
+INFO 2024-03-15 21:31:08,562 "POST /student/delete/2/ HTTP/1.1" 302 0
+INFO 2024-03-15 21:31:08,582 "GET /student/list HTTP/1.1" 200 10516
+INFO 2024-03-15 21:31:10,818 "GET /student/1/ HTTP/1.1" 200 11161
+INFO 2024-03-15 21:31:10,864 "GET /media/students/passports/projectworlds.png HTTP/1.1" 200 13585
+INFO 2024-03-15 21:31:11,983 "GET /student/delete/1/ HTTP/1.1" 200 9598
+INFO 2024-03-15 21:31:13,451 "POST /student/delete/1/ HTTP/1.1" 302 0
+INFO 2024-03-15 21:31:13,474 "GET /student/list HTTP/1.1" 200 10237
+INFO 2024-03-15 21:31:15,580 "GET /student/4/ HTTP/1.1" 200 11713
+INFO 2024-03-15 21:31:19,918 "GET /staff/list/ HTTP/1.1" 200 9894
+INFO 2024-03-15 21:31:21,474 "GET /staff/1/ HTTP/1.1" 200 10677
+INFO 2024-03-15 21:31:24,197 "GET /staff/1/update/ HTTP/1.1" 200 12625
+INFO 2024-03-15 21:31:26,404 "GET /result/view/all HTTP/1.1" 200 10299
+INFO 2024-03-15 21:31:28,081 "GET /result/edit-results/ HTTP/1.1" 200 12070
+INFO 2024-03-15 21:31:28,963 "GET /result/create/ HTTP/1.1" 200 10570
+INFO 2024-03-15 21:31:30,294 "GET /result/view/all HTTP/1.1" 200 10299
+INFO 2024-03-15 21:31:31,206 "GET /result/view/all HTTP/1.1" 200 10299
+INFO 2024-03-15 21:31:31,482 "GET /result/view/all HTTP/1.1" 200 10299
+INFO 2024-03-15 21:31:31,948 "GET /result/view/all HTTP/1.1" 200 10299
+INFO 2024-03-15 21:31:32,489 "GET /result/view/all HTTP/1.1" 200 10299
+INFO 2024-03-15 21:31:32,864 "GET /result/view/all HTTP/1.1" 200 10299
+INFO 2024-03-15 21:33:24,187 "GET /finance/list/ HTTP/1.1" 200 10357
+INFO 2024-03-15 21:33:34,913 "GET /finance/2/detail/ HTTP/1.1" 200 11072
+INFO 2024-03-15 21:33:38,476 "GET /finance/2/update/ HTTP/1.1" 200 14815
+INFO 2024-03-15 21:33:48,284 "POST /finance/2/update/ HTTP/1.1" 302 0
+INFO 2024-03-15 21:33:48,317 "GET /finance/2/detail/ HTTP/1.1" 200 11074
+INFO 2024-03-15 21:33:54,535 "GET /finance/2/update/ HTTP/1.1" 200 14817
+INFO 2024-03-15 21:34:29,039 "POST /finance/2/update/ HTTP/1.1" 302 0
+INFO 2024-03-15 21:34:29,064 "GET /finance/2/detail/ HTTP/1.1" 200 11074
+INFO 2024-03-15 21:34:37,477 "GET /finance/2/update/ HTTP/1.1" 200 14817
+INFO 2024-03-15 21:34:56,004 "GET / HTTP/1.1" 200 9296
+INFO 2024-03-15 21:35:03,718 "GET / HTTP/1.1" 200 9296
+INFO 2024-03-15 21:35:06,652 "GET / HTTP/1.1" 200 9296
+INFO 2024-03-16 17:50:23,405 Watching for file changes with StatReloader
+INFO 2024-03-16 17:50:28,690 "GET / HTTP/1.1" 302 0
+INFO 2024-03-16 17:50:28,763 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-03-16 17:50:28,794 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-03-16 17:50:28,798 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-03-16 17:50:28,809 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-03-16 17:50:28,810 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-03-16 17:50:28,810 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-03-16 17:50:28,810 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2024-03-16 17:50:28,811 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2024-03-16 17:50:28,827 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-03-16 17:50:28,827 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-03-16 17:50:28,827 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-03-16 17:50:28,827 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-03-16 17:50:28,827 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-03-16 17:50:28,828 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-03-16 17:50:28,912 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+WARNING 2024-03-16 17:50:29,186 Not Found: /favicon.ico
+WARNING 2024-03-16 17:50:29,188 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-03-16 17:50:31,751 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-03-16 17:50:31,794 "GET / HTTP/1.1" 200 9296
+INFO 2024-03-16 17:50:31,807 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-03-16 17:50:31,807 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-03-16 17:50:31,887 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-03-16 17:50:33,503 "GET /staff/list/ HTTP/1.1" 200 9894
+INFO 2024-03-16 17:50:34,475 "GET /student/list HTTP/1.1" 200 10237
+INFO 2024-03-16 17:50:35,631 "GET /staff/list/ HTTP/1.1" 200 9894
+INFO 2024-03-16 17:50:37,090 "GET /staff/1/ HTTP/1.1" 200 10677
+INFO 2024-03-16 17:50:39,883 "GET /staff/1/update/ HTTP/1.1" 200 12625
+INFO 2024-03-16 17:50:52,431 "GET /current-session/ HTTP/1.1" 200 10522
+INFO 2024-03-16 17:50:54,844 "GET /student/list HTTP/1.1" 200 10237
+INFO 2024-03-16 17:51:00,334 "GET /student/4/ HTTP/1.1" 200 11713
+INFO 2024-03-16 17:51:00,363 "GET /media/students/passports/Document_from_Sumit_Tomar.jpg HTTP/1.1" 304 0
+INFO 2024-03-16 17:51:06,974 "GET /staff/list/ HTTP/1.1" 200 9894
+INFO 2024-03-16 17:51:08,687 "GET /staff/1/ HTTP/1.1" 200 10677
+INFO 2024-03-16 17:51:12,034 "GET /staff/1/delete/ HTTP/1.1" 200 9591
+INFO 2024-03-16 17:51:13,411 "POST /staff/1/delete/ HTTP/1.1" 302 0
+INFO 2024-03-16 17:51:13,430 "GET /staff/list/ HTTP/1.1" 200 9693
+INFO 2024-03-16 17:51:19,432 "GET /student/list HTTP/1.1" 200 10237
+INFO 2024-03-16 17:51:22,902 "GET /student/create/ HTTP/1.1" 200 13651
+INFO 2024-03-16 17:51:52,216 "POST /student/create/ HTTP/1.1" 200 13843
+INFO 2024-03-16 17:54:40,297 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2024-03-16 17:54:40,316 "GET /student/5/ HTTP/1.1" 200 11299
+INFO 2024-03-16 17:54:40,478 "GET /static/dist/img/avatar.png HTTP/1.1" 200 8543
+INFO 2024-03-16 17:54:49,337 "GET /student/list HTTP/1.1" 200 10523
+INFO 2024-03-16 17:54:51,804 "GET /staff/list/ HTTP/1.1" 200 9693
+INFO 2024-03-16 17:54:52,856 "GET /student/list HTTP/1.1" 200 10523
+INFO 2024-03-16 17:56:15,993 C:\Users\hp\Desktop\Minor II\Django-School-Management-System\apps\students\views.py changed, reloading.
+INFO 2024-03-16 17:56:16,540 Watching for file changes with StatReloader
+INFO 2024-03-16 17:56:19,904 C:\Users\hp\Desktop\Minor II\Django-School-Management-System\apps\students\views.py changed, reloading.
+INFO 2024-03-16 17:56:20,371 Watching for file changes with StatReloader
+INFO 2024-03-16 17:57:36,810 "GET / HTTP/1.1" 200 9296
+INFO 2024-03-16 17:57:38,812 "GET / HTTP/1.1" 200 9296
+INFO 2024-03-16 17:57:39,755 "GET /student/list HTTP/1.1" 200 10523
+INFO 2024-03-16 17:57:46,131 "GET /student/4/ HTTP/1.1" 200 11713
+INFO 2024-03-16 17:57:48,326 "GET /student/4/update/ HTTP/1.1" 200 14028
+INFO 2024-03-16 17:57:54,002 "POST /student/4/update/ HTTP/1.1" 302 0
+INFO 2024-03-16 17:57:54,026 "GET /student/4/ HTTP/1.1" 200 11856
+INFO 2024-03-16 17:57:55,684 "GET /student/list HTTP/1.1" 200 10523
+INFO 2024-03-16 17:57:56,794 "GET /student/5/ HTTP/1.1" 200 11153
+INFO 2024-03-16 17:57:59,589 "GET /student/5/update/ HTTP/1.1" 200 13730
+INFO 2024-03-16 17:58:07,123 "POST /student/5/update/ HTTP/1.1" 302 0
+INFO 2024-03-16 17:58:07,143 "GET /student/5/ HTTP/1.1" 200 11296
+INFO 2024-03-16 17:58:08,556 "GET /student/list HTTP/1.1" 200 10523
+INFO 2024-03-16 17:58:15,660 "GET /staff/list/ HTTP/1.1" 200 9693
+INFO 2024-03-16 17:58:17,643 "GET /staff/create/ HTTP/1.1" 200 12606
+INFO 2024-03-16 17:59:17,267 "GET /staff/list/ HTTP/1.1" 200 9693
+INFO 2024-03-16 17:59:20,545 "GET /staff/create/ HTTP/1.1" 200 12606
+INFO 2024-03-16 18:01:28,895 "POST /staff/create/ HTTP/1.1" 302 0
+INFO 2024-03-16 18:01:28,913 "GET /staff/2/ HTTP/1.1" 200 10829
+INFO 2024-03-16 18:01:30,502 "GET /staff/list/ HTTP/1.1" 200 9897
+INFO 2024-03-16 18:01:34,600 "GET /staff/2/ HTTP/1.1" 200 10686
+INFO 2024-03-16 18:01:37,656 "GET /staff/list/ HTTP/1.1" 200 9897
+INFO 2024-03-16 18:01:39,096 "GET /staff/list/ HTTP/1.1" 200 9897
+INFO 2024-03-16 18:01:39,620 "GET /student/list HTTP/1.1" 200 10523
+INFO 2024-03-16 18:01:41,380 "GET /student/list HTTP/1.1" 200 10523
+INFO 2024-03-16 18:01:42,764 "GET /staff/list/ HTTP/1.1" 200 9897
+INFO 2024-03-16 18:06:50,809 "GET / HTTP/1.1" 200 9296
+INFO 2024-03-16 18:06:56,033 "GET /staff/list/ HTTP/1.1" 200 9897
+INFO 2024-03-16 18:06:57,185 "GET /staff/list/ HTTP/1.1" 200 9897
+INFO 2024-03-16 18:06:58,820 "GET /staff/2/ HTTP/1.1" 200 10686
+INFO 2024-03-16 18:07:01,866 "GET /staff/2/update/ HTTP/1.1" 200 12638
+INFO 2024-03-16 18:07:07,685 "POST /staff/2/update/ HTTP/1.1" 302 0
+INFO 2024-03-16 18:07:07,702 "GET /staff/2/ HTTP/1.1" 200 10829
+INFO 2024-03-16 18:07:10,652 "GET /staff/list/ HTTP/1.1" 200 9897
+INFO 2024-03-16 18:07:14,626 "GET /student/list HTTP/1.1" 200 10523
+INFO 2024-03-16 18:07:18,827 "GET /result/create/ HTTP/1.1" 200 10749
+INFO 2024-03-16 18:07:33,560 "GET /result/edit-results/ HTTP/1.1" 200 12070
+INFO 2024-03-16 18:07:43,681 "GET /result/view/all HTTP/1.1" 200 10299
+INFO 2024-03-16 18:07:52,206 "GET /result/edit-results/ HTTP/1.1" 200 12070
+INFO 2024-03-16 18:07:55,960 "GET /class/list/ HTTP/1.1" 200 11692
+INFO 2024-03-16 18:08:00,240 "GET /staff/list/ HTTP/1.1" 200 9897
+INFO 2024-03-16 18:08:03,325 "GET /student/list HTTP/1.1" 200 10523
+INFO 2024-03-16 18:08:06,351 "GET /staff/list/ HTTP/1.1" 200 9897
+INFO 2024-03-16 18:17:38,537 "GET /staff/list/ HTTP/1.1" 200 9897
+INFO 2024-03-16 18:17:40,097 "GET /student/list HTTP/1.1" 200 10523
+INFO 2024-03-16 18:17:40,695 "GET /staff/list/ HTTP/1.1" 200 9897
+INFO 2024-03-16 18:17:42,328 "GET /staff/create/ HTTP/1.1" 200 12606
+INFO 2024-03-16 18:17:50,729 "GET /student/list HTTP/1.1" 200 10523
+INFO 2024-03-16 18:17:52,968 "GET /staff/list/ HTTP/1.1" 200 9897
+INFO 2024-03-16 18:17:55,341 "GET /staff/create/ HTTP/1.1" 200 12606
+INFO 2024-03-16 18:18:53,187 "GET /staff/create/ HTTP/1.1" 200 12604
+INFO 2024-03-16 18:19:00,827 "GET /staff/create/ HTTP/1.1" 200 12604
+INFO 2024-03-16 18:19:01,517 "GET /staff/create/ HTTP/1.1" 200 12604
+INFO 2024-03-16 18:19:02,567 "GET /staff/list/ HTTP/1.1" 200 9897
+INFO 2024-03-16 18:19:04,187 "GET /staff/list/ HTTP/1.1" 200 9897
+INFO 2024-03-16 18:19:05,257 "GET /staff/create/ HTTP/1.1" 200 12604
+INFO 2024-03-16 18:19:26,165 "GET /staff/create/ HTTP/1.1" 200 12606
+INFO 2024-03-16 22:06:17,019 "GET /result/create/ HTTP/1.1" 302 0
+INFO 2024-03-16 22:06:17,051 "GET /accounts/login/?next=/result/create/ HTTP/1.1" 200 4003
+INFO 2024-03-16 22:06:20,707 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-03-16 22:06:20,755 "GET /result/create/ HTTP/1.1" 200 10749
+INFO 2024-03-16 22:06:23,471 "GET /staff/list/ HTTP/1.1" 200 9897
+INFO 2024-03-16 22:06:24,864 "GET /student/list HTTP/1.1" 200 10523
+INFO 2024-03-16 23:00:10,634 "GET /student/list HTTP/1.1" 200 10523
+INFO 2024-03-16 23:00:11,713 "GET /student/list HTTP/1.1" 200 10523
+INFO 2024-03-16 23:00:15,010 "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2024-03-16 23:00:15,019 "GET / HTTP/1.1" 302 0
+INFO 2024-03-16 23:00:15,060 "GET /accounts/login/?next=/ HTTP/1.1" 200 3990
+INFO 2024-03-16 23:00:15,251 "GET /static/dist/img/school.png HTTP/1.1" 200 445475
+INFO 2024-03-16 23:00:19,227 "GET /accounts/login/?next=/ HTTP/1.1" 200 3990
+INFO 2024-03-16 23:00:20,216 "GET /accounts/login/?next=/ HTTP/1.1" 200 3990
+INFO 2024-03-16 23:02:38,008 Watching for file changes with StatReloader
+INFO 2024-03-16 23:02:41,572 "GET / HTTP/1.1" 302 0
+ERROR 2024-03-16 23:02:41,921 Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+KeyError: "'dist/img/login.png'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 39: ''dist/img/login.png''. Did you forget to register or load this tag?
+ERROR 2024-03-16 23:02:41,921 "GET /accounts/login/?next=/ HTTP/1.1" 500 163548
+ERROR 2024-03-16 23:03:12,748 Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 39: 'default'. Did you forget to register or load this tag?
+ERROR 2024-03-16 23:03:12,748 "GET /accounts/login/?next=/ HTTP/1.1" 500 163418
+ERROR 2024-03-16 23:03:13,717 Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 39: 'default'. Did you forget to register or load this tag?
+ERROR 2024-03-16 23:03:13,717 "GET /accounts/login/?next=/ HTTP/1.1" 500 163418
+ERROR 2024-03-16 23:03:14,731 Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 39: 'default'. Did you forget to register or load this tag?
+ERROR 2024-03-16 23:03:14,731 "GET /accounts/login/?next=/ HTTP/1.1" 500 163418
+ERROR 2024-03-16 23:03:15,648 Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 39: 'default'. Did you forget to register or load this tag?
+ERROR 2024-03-16 23:03:15,657 "GET /accounts/login/?next=/ HTTP/1.1" 500 163418
+ERROR 2024-03-16 23:03:16,514 Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+KeyError: 'default'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\hp\AppData\Local\Programs\Python\Python39\lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 39: 'default'. Did you forget to register or load this tag?
+ERROR 2024-03-16 23:03:16,522 "GET /accounts/login/?next=/ HTTP/1.1" 500 163418
+INFO 2024-03-16 23:03:25,939 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-03-16 23:03:27,220 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-03-16 23:03:42,735 "GET /accounts/login/?next=/ HTTP/1.1" 200 3990
+INFO 2024-03-16 23:03:43,816 "GET /accounts/login/?next=/ HTTP/1.1" 200 3990
+INFO 2024-03-16 23:03:44,705 "GET /accounts/login/?next=/ HTTP/1.1" 200 3990
+INFO 2024-03-16 23:03:45,454 "GET /accounts/login/?next=/ HTTP/1.1" 200 3990
+INFO 2024-03-16 23:03:46,327 "GET /accounts/login/?next=/ HTTP/1.1" 200 3990
+INFO 2024-03-16 23:03:47,277 "GET /accounts/login/?next=/ HTTP/1.1" 200 3990
+INFO 2024-03-16 23:05:03,717 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-03-16 23:05:05,047 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-03-16 23:07:47,315 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-03-16 23:07:48,308 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-03-16 23:07:49,001 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-03-16 23:07:52,421 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-03-16 23:07:52,447 "GET / HTTP/1.1" 200 9301
+INFO 2024-03-16 23:07:56,268 "GET /student/list HTTP/1.1" 200 10523
+INFO 2024-03-16 23:07:57,608 "GET /staff/list/ HTTP/1.1" 200 9897
+INFO 2024-03-16 23:07:58,566 "GET /result/edit-results/ HTTP/1.1" 200 12070
+INFO 2024-03-16 23:08:00,473 "GET /result/view/all HTTP/1.1" 200 10299
+INFO 2024-03-16 23:08:26,520 "GET /result/view/all HTTP/1.1" 200 10299
+INFO 2024-03-16 23:08:27,513 "GET /result/view/all HTTP/1.1" 200 10299
+INFO 2024-03-16 23:08:30,646 "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2024-03-16 23:08:30,654 "GET / HTTP/1.1" 302 0
+INFO 2024-03-16 23:08:30,686 "GET /accounts/login/?next=/ HTTP/1.1" 200 3985
+WARNING 2024-03-16 23:08:30,726 "GET /static/img/school.png HTTP/1.1" 404 1801
+INFO 2024-03-16 23:08:34,302 "GET /accounts/login/?next=/ HTTP/1.1" 200 3985
+WARNING 2024-03-16 23:08:34,333 "GET /static/img/school.png HTTP/1.1" 404 1801
+INFO 2024-03-16 23:08:35,303 "GET /accounts/login/?next=/ HTTP/1.1" 200 3985
+WARNING 2024-03-16 23:08:35,333 "GET /static/img/school.png HTTP/1.1" 404 1801
+INFO 2024-03-16 23:08:36,317 "GET /accounts/login/?next=/ HTTP/1.1" 200 3985
+WARNING 2024-03-16 23:08:36,349 "GET /static/img/school.png HTTP/1.1" 404 1801
+INFO 2024-03-16 23:08:37,173 "GET /accounts/login/?next=/ HTTP/1.1" 200 3985
+WARNING 2024-03-16 23:08:37,191 "GET /static/img/school.png HTTP/1.1" 404 1801
+INFO 2024-03-16 23:08:38,264 "GET /accounts/login/?next=/ HTTP/1.1" 200 3985
+WARNING 2024-03-16 23:08:38,288 "GET /static/img/school.png HTTP/1.1" 404 1801
+INFO 2024-03-16 23:08:53,718 "GET /accounts/login/?next=/ HTTP/1.1" 200 3990
+INFO 2024-03-16 23:08:54,911 "GET /accounts/login/?next=/ HTTP/1.1" 200 3990
+INFO 2024-03-16 23:08:55,998 "GET /accounts/login/?next=/ HTTP/1.1" 200 3990
+INFO 2024-03-16 23:08:57,028 "GET /accounts/login/?next=/ HTTP/1.1" 200 3990
+INFO 2024-03-16 23:08:58,732 "GET /accounts/login/?next=/ HTTP/1.1" 200 3990
+INFO 2024-03-16 23:10:36,042 "GET /accounts/login/?next=/ HTTP/1.1" 200 3988
+INFO 2024-03-16 23:10:36,232 "GET /static/dist/img/ssds.png HTTP/1.1" 200 144918
+INFO 2024-03-16 23:10:37,657 "GET /accounts/login/?next=/ HTTP/1.1" 200 3988
+INFO 2024-03-16 23:10:40,754 "GET /accounts/login/?next=/ HTTP/1.1" 200 3988
+INFO 2024-03-16 23:12:47,332 "GET /accounts/login/?next=/ HTTP/1.1" 200 3988
+INFO 2024-03-16 23:12:48,845 "GET /accounts/login/?next=/ HTTP/1.1" 200 3988
+INFO 2024-03-16 23:12:51,719 "GET /accounts/login/?next=/ HTTP/1.1" 200 3988
+INFO 2024-03-16 23:14:16,978 "GET /accounts/login/?next=/ HTTP/1.1" 200 3979
+INFO 2024-03-16 23:14:18,537 "GET /accounts/login/?next=/ HTTP/1.1" 200 3979
+INFO 2024-03-16 23:14:22,915 "GET /accounts/login/?next=/ HTTP/1.1" 200 3979
+INFO 2024-03-16 23:15:34,711 "GET /accounts/login/?next=/ HTTP/1.1" 200 3985
+INFO 2024-03-16 23:15:36,215 "GET /accounts/login/?next=/ HTTP/1.1" 200 3985
+INFO 2024-03-16 23:16:07,465 "GET /accounts/login/?next=/ HTTP/1.1" 200 4001
+INFO 2024-03-16 23:16:09,175 "GET /accounts/login/?next=/ HTTP/1.1" 200 4001
